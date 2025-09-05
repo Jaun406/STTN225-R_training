@@ -1,0 +1,3 @@
+ClassData <- data.frame(matrix(c(1124224,82,1,1122355,72,1,1125465,69,1,1202115,65,0,1456877,81,0,1003219,74,1,1019701,52,0,1126394,79,0,1526974,76,0),ncol=3,byrow=TRUE))
+names(ClassData) <- c("StudentNo","Score","Gender")
+ClassData
